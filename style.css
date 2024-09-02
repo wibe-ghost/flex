@@ -1,0 +1,20 @@
+.ota1 {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 85px;
+}
+
+.ota2 {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 67px;
+}
+
+.ota3 {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 67px;
+}
